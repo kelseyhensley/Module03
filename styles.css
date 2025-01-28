@@ -16,8 +16,8 @@ body, html {
  
  
  section {
-    background-color: #FFFFEE;
-    border: #078C03 solid;
+    background-color: #D6A2E8;
+    border: #6c5ce7 solid;
     border-width: 2pt 2pt 2pt 17pt;
     padding: 10px;
  }
@@ -33,7 +33,7 @@ body, html {
  
  aside {
     text-align: right;
-    border: #444466 solid;
+    border: #e84393 solid;
     border-width: 0pt 14pt 0pt 0pt;
     position: relative;
     padding-right: 5px;
